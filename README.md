@@ -7,7 +7,7 @@
   <div id="badges"></div>
   <h1>
     hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" max-width="30px"/>
   </h1>
 </div>
 
@@ -19,7 +19,7 @@ I'm front-end developer from Yekaterinburg.
 - I'm currently working on my own project - **TaskApp**. It's a simple implementation of task-manager.
 
 
-### :fire: My Stats :
+### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mirehiko&theme=ayu-light&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 <!--
 **Mirehiko/Mirehiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
