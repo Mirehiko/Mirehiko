@@ -19,7 +19,7 @@
 ### About me:
 I'm front-end developer from Yekaterinburg.
 - I'm working as a Software Engineer now;
-- In my free time, I solve problems on Codewars adn read tech articles.
+- In my free time, I solve problems on Codewars and read tech articles.
 - I'm currently working on my own project - **TaskApp**. It's a simple implementation of task-manager.
 
 ### Languages and Tools:
