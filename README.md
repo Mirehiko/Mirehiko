@@ -54,3 +54,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="[https://t.me/Mirehiko](https://mynickname.com/mirehiko)">
+  <img src="https://mynickname.com/forum3t4/Mirehiko.gif" alt="Nickname Mirehiko"/>
+</a>
